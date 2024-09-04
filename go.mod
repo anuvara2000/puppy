@@ -1,4 +1,3 @@
-module mymodule
 
 module github.com/anuvara2000/puppy
 
