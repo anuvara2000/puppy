@@ -2,6 +2,7 @@ package puppy
 
 import (
 	"github.com/anuvara2000/dog"
+	"fmt"
 )
 
 func Bark() string {
@@ -18,4 +19,8 @@ func BigBark() string {
 
 func BigBarks() string {
 	return dog.WhenGrownUp(Barks())
+}
+
+func Form10(){
+	fmt.Println("I'm from version 1.1.0")
 }
