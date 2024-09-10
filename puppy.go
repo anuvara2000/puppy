@@ -21,17 +21,12 @@ func BigBarks() string {
 	return dog.WhenGrownUp(Barks())
 }
 
-func Form11(){
-	fmt.Println("I'm from version 1.0.0")
-}
-
-func Form12(){
-	fmt.Println("I'm from version 1.1.0")
-}
-
 func Form13(){
 	fmt.Println("I'm from version 1.3.0")
 }
 
+func Form11(){
+	fmt.Println("I'm from version 1.1.0")
+}
 
 
